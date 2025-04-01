@@ -1,0 +1,5 @@
+D:\Users\Tomek\Desktop\GitHub\Snake.exe
+D:\Users\Tomek\Desktop\GitHub\Snake.dll
+D:\Users\Tomek\Desktop\GitHub\Snake.deps.json
+D:\Users\Tomek\Desktop\GitHub\Snake.runtimeconfig.json
+D:\Users\Tomek\Desktop\GitHub\Snake.pdb
